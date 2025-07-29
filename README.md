@@ -1,1 +1,1 @@
-# github-web
+# Github Web template
