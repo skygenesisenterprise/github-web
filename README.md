@@ -71,6 +71,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💡 About
 
-Maintained by \[Your Name or Organization].
+Maintained by \[Sky Genesis Enterprise Developer]. 
 
 This template is part of the **Sky Genesis Enterprise Open Dev Initiative** for cleaner, more standardized software projects across teams and organizations.
