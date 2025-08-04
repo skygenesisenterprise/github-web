@@ -46,7 +46,7 @@ This is a **public web project template** for developers who want a clean, struc
 2. Clone your new repo:
    ```bash
    git clone https://github.com/skygenesisenterprise/github-web.git
-````
+   ```
 
 3. Install dependencies:
 
